@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rockiir&label=Profile%20views&color=0e75b6&style=flat" alt="rockiir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rockiir&label=Profile%20views&color=0e75b6&style=flat" alt="rockiir" /> </p>
 
 [![Header](https://github.com/rockiir/rockiir/blob/main/Untitled%20design.gif?raw=true)](https://github.com/rockiir)
 
