@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I love watching films from different countries**
 
-
+  
 
 <h3 align="left">Connect with me:</h3>
 
@@ -29,3 +29,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockiir&show_icons=true&locale=en&layout=compact&theme=radical" alt="rockiir" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockiir" alt="rockiir" /></a> </p>
+
+
+
