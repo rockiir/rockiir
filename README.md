@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockiir&label=Profile%20views&color=0e75b6&style=flat" alt="rockiir" /> </p>
 
-[Imgur](https://imgur.com/ZVQ0q5W)
+<blockquote class="imgur-embed-pub" lang="en" data-id="ZVQ0q5W"><a href="https://imgur.com/ZVQ0q5W">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 - ⚡ Fun fact: **I love watching films from different countries**
 
