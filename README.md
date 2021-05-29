@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockiir&label=Profile%20views&color=0e75b6&style=flat" alt="rockiir" /> </p>
 
-![](C:\Users\Raquel de matos\Documents\github\rockiir\Untitled design.gif)
-
-
+![](https://imgur.com/ZVQ0q5W)
 
 
 - ⚡ Fun fact: **I love watching films from different countries**
