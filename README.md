@@ -3,11 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rockiir&label=Profile%20views&color=0e75b6&style=flat" alt="rockiir" /> </p>
 
-[![Header](https://github.com/rockiir/rockiir/blob/main/Untitled%20design.gif?raw=true)](https://github.com/rockiir)
+
 <h1 align="center">Hi 👋, I'm Raquel de Matos</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
+<img align="right" alt="img" src="https://raw.githubusercontent.com/rockiir/Imagens/master/Blue%20and%20Orange%20Bold%20and%20Dynamic%20Photo%20Promo%20and%20Sale%20Labor%20Day%20Instagram%20Post.gif" width="30%" height="auto" />
+- ⚡ Fun fact:<br>
+-  ** I love watching films from different countries ** <br>
+- I'm trying to learn Mandarin as a self-taught<br>
+- My hobby is drawing
 
-- ⚡ Fun fact: **I love watching films from different countries**
 
   
 
