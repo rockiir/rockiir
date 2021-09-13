@@ -28,12 +28,12 @@
 -------
 <table>
   <tr>
-<td>
+    <td>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockiir&show_icons=true&locale=en&theme=radical" alt="rockiir" /></p>
 </td>
 <td>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockiir&show_icons=true&locale=en&layout=compact&theme=radical" alt="rockiir" /></p>
-  <td>
-  </tr>
+   </td>
+ </tr>
 </table>
 
