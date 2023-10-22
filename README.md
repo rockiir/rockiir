@@ -5,8 +5,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Raquel de Matos</h1>
+<img src="https://github.com/rockiir/rockiir/blob/main/raquel%20matos.gif" width="100%" height="auto" />
 <h3 align="center">A passionate developer from Brazil</h3>
-<img align="right" alt="img" src="https://github.com/rockiir/rockiir/blob/main/Blue%20and%20Orange%20Bold%20and%20Dynamic%20Photo%20Promo%20and%20Sale%20Labor%20Day%20Instagram%20Post.gif?raw=true" width="40%" height="auto" />
 - ⚡ Fun fact:<br>
 -  ** I love watching films from different countries ** <br>
 - My hobby is drawing
