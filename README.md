@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Raquel de Matos</h1>
-<img src="https://github.com/rockiir/rockiir/blob/main/raquel%20matos.gif" width="100%" height="auto" />
+<img src="https://github.com/rockiir/rockiir/blob/main/raquelbanner.gif" width="100%" height="auto" />
 <h3 align="center">A passionate developer from Brazil</h3>
 - ⚡ Fun fact:<br>
 -  ** I love watching films from different countries ** <br>
