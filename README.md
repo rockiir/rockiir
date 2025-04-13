@@ -1,21 +1,22 @@
+<!-- Profile View Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rockiir&label=Profile%20views&color=0e75b6&style=flat" alt="rockiir" />
+  <img src="https://komarev.com/ghpvc/?username=rockiir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h1 align="center">Hello, I'm Raquel de Matos</h1>
-<img src="https://github.com/rockiir/rockiir/blob/main/raquelbanner.gif" width="100%" height="auto" alt="Raquel de Matos banner" />
-
-<h3 align="center">Full Stack Developer | Data Science Enthusiast | Creative Technologist</h3>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Raquel+de+Matos;Full+Stack+Developer;Data+Science+%26+AI+Enthusiast" alt="Typing SVG" />
+</h1>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a full stack developer from Brazil with a solid foundation in systems development, cloud computing, and data-driven applications. I'm currently pursuing postgraduate studies in Data Science and Artificial Intelligence, and I’m passionate about building inclusive, user-centered digital experiences.
+I'm a Full Stack Developer with a passion for creating impactful technological solutions. Currently pursuing a postgraduate degree in Data Science and Artificial Intelligence, I strive to blend creativity and technology to solve complex problems.
 
-- 🔍 I enjoy exploring emerging technologies and applying them to real-world challenges.
-- 🎨 I have a background in design and digital media, which enhances my front-end work and UI/UX perspective.
-- 🌍 I'm also passionate about culture and storytelling—especially through code and art.
+- 🌱 Continuously learning new technologies and methodologies.
+- 🎨 With a background in design and digital media, I value user experience in every project.
+- 💬 Open to collaborations and discussions on technology, innovation, and art.
 
 ---
 
@@ -32,7 +33,7 @@ I'm a full stack developer from Brazil with a solid foundation in systems develo
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -47,7 +48,7 @@ I'm a full stack developer from Brazil with a solid foundation in systems develo
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
@@ -57,13 +58,16 @@ I'm a full stack developer from Brazil with a solid foundation in systems develo
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rockiir&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockiir&layout=compact&theme=radical" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rockiir&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockiir&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Fun Facts
+
+- 🎬 I love watching films from different cultures and styles.
+- ✏️ My hobby is drawing and exploring new forms of artistic expression.
+
+---
